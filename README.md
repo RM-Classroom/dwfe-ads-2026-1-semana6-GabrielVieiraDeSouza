@@ -10,10 +10,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Gabriel Vieira de Souza
+- Matricula:  917199
+- Proposta de projeto escolhida: WikiMedia
+- Breve descrição sobre seu projeto: Um site de curiosidades, resumos e fun facts de jogos, filmes e varios tipos de entretenimento.
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
